@@ -16,4 +16,4 @@ We want to make this data more accessible and provide curated data sets:
 - Descriptions and column names in English
 - Multiple files that belong together are combined
 
-*There is no data to download here yet. We are currently working hard to bring you open data from Japan.*
+*There is no data to download here yet. We are currently working hard to bring you open data from Japan. In the meantime, please feel free to reach out to david@ on this domain.*
