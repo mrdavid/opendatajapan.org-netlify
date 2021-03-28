@@ -16,4 +16,10 @@ We want to make this data more accessible and provide curated data sets:
 - Descriptions and column names in English
 - Multiple files that belong together are combined
 
-*There is no data to download here yet. We are currently working hard to bring you open data from Japan. In the meantime, please feel free to reach out to __david@opendatajapan.com__ on this domain.*
+## Data sets
+
+|  Title  |  Description  | Published on | Repository | Sample Analysis |   
+| --- | --- |  --- |  --- |   --- |    
+| Public holidays in Japan 1955-2022 | A list of public holidays by year with Japanese and English names | 2021/03/28 | [Data repository on GitHub](https://github.com/Open-Data-Japan/odj-data-public_holidays) | [Jupyter notebook on GitHub](https://github.com/Open-Data-Japan/odj-data-public_holidays/blob/main/sample-analysis/jupyter-odj-data-public_holidays.ipynb) |
+
+*There aren't a lot of datasets to download here yet. We are currently working hard to bring you open data from Japan. In the meantime, please feel free to reach out to __david@opendatajapan.com__ on this domain.*
